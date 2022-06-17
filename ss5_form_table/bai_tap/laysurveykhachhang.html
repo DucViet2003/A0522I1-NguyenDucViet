@@ -5,11 +5,10 @@
     <title>Title</title>
 </head>
 <body>
-
     <h2>MARKET REASEARCH SURVEY</h2>
     <b>What is your age range?</b>
     <br>
-    <select>
+    <select style="background-color: lightpink">
         <option value = "  ">18-24</option>
         <option>24-30</option>
         <option>30-40</option>
@@ -17,7 +16,7 @@
     <br>
     <b>What is your yearly income range?</b>
     <br>
-    <select>
+    <select style="background-color: turquoise">
         <option value = "  ">$0-$25000</option>
         <option>$25000-$50000</option>
         <option>$50000-$100000</option>
@@ -50,7 +49,7 @@
    <table>
 <tr>
     <td><b>$</b></td>
-    <td><input type="text" size="10"></td>
+    <td><input type="text" size="10" style="background-color: yellow"></td>
     <td>.</td>
     <td><input type="text" size="5"> </td>
 </tr>
@@ -67,31 +66,36 @@
 <p>Please rate your level of agreement with the following statements.</p>
     <table border="1px solid" cellspacing="0px">
         <br>
-        <tr>
+        <tr style="background-color: silver">
             <td></td>
-            <td><b>Stongly Disagree</b></td>
+            <td><b>Strongly Disagree</b></td>
             <td> <b>Disagree</b> </td>
             <td> <b>Agree</b> </td>
+            <td> <b>Strongly Agree</b></td>
         </tr>
-        <tr>
-            <td><b> Our products are pricrd fairly.</b> </td>
+        <tr style="text-align: center">
+            <td style="text-align: left"><b> Our products are pricrd fairly.</b> </td>
             <td> <input type="radio" name="1">
                 <br>1</td>
             <td> <input type="radio" name="1">
                 <br>2</td>
             <td> <input type="radio" name="1">
                 <br>3</td>
+            <td> <input type="radio" name="1">
+                <br>4</td>
         </tr>
-        <tr>
-            <td><b> Our products are high quality.</b> </td>
+        <tr style="background-color: silver;text-align: center">
+            <td style="text-align: left"><b> Our products are high quality.</b> </td>
             <td> <input type="radio" name="2">
                 <br>1</td>
             <td> <input type="radio" name="2">
                 <br>2</td>
             <td> <input type="radio" name="2">
                 <br>3</td>
+            <td> <input type="radio" name="2">
+                <br>4</td>
         </tr>
-        <tr>
+        <tr style="text-align: center">
             <td><b> You would recommend our product to a friend or coworker.</b> </td>
             <td> <input type="radio" name="23">
                 <br>1</td>
@@ -99,6 +103,8 @@
                 <br>2</td>
             <td> <input type="radio" name="23">
                 <br>3</td>
+            <td> <input type="radio" name="23">
+                <br>4</td>
         </tr>
     </table>
     <table>
@@ -136,7 +142,7 @@
             <td></td>
             <td></td>
             <td></td>
-            <td><input type = "button" name="btSubmit" value="Đăng Kí"/>
+            <td><input type = "button" name="btSubmit" value="Đăng Kí" style="background-color: orange"/>
 
         </tr>
     </table>
