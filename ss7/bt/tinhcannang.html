@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p>Cân Nặng</p>
+<input type="text" id="weight">
+<p>Chiều Cao</p>
+<input type="text1" id="height">
+<br><br>
+<p id="c"></p>
+<button onclick="convert1()">Tính Chỉ Số Cân Nặng</button>
+
+
+<script>
+    function convert1() {
+        let mot = parseInt(document.getElementById('weight').value);
+
+        let hai = parseInt(document.getElementById('height').value);
+
+        let bmi = mot / (hai * hai)
+        document.getElementById("c").innerHTML = bmi
+
+
+        if (bmi < 18) {
+            document.write("Underweight");
+        } else if (bmi < 25.0)
+            document.write("Normal");
+        else if (bmi < 30.0) {
+            document.write("Overweight");
+        } else {
+            document.write("Obese");
+        }
+    }
+</script>
+</body>
+</html>

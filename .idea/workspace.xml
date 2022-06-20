@@ -11,14 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60c58495-0034-4b4b-99f8-73e6fe454d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss6/bt/chuyendoitiente.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss6/bt/nhapdiemtinhtrungbinhmon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss6/bt/ungdungmaytinh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7/bt/thangcobn ngay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7/bt/tinhcannang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7/th/th kt nam nhuan.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss4_git)_html/bai_tap/TAOJ FORM DON GIAN.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_form_table/bai_tap/TAOJ FORM DON GIAN.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_form_table/bai_tap/banco.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_form_table/bai_tap/banco.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_form_table/bai_tap/tkb.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_form_table/bai_tap/tkb.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,15 +47,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\Module1\thuc hanh" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\Module1\ss7\bt" />
       <recent name="D:\CodeGym\Module1\ss5_form_table\bai_tap" />
       <recent name="D:\CodeGym\Module1\ss4_git)_html\bai_tap" />
       <recent name="D:\CodeGym\Module1\ss5_form_table\thuc_hanh" />
       <recent name="D:\CodeGym\Module1\ss4_git)_html" />
-      <recent name="D:\CodeGym\Module1\ss4_git)_html\thuc_hanh" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\CodeGym\Module1\thuc hanh" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -113,7 +109,9 @@
       <workItem from="1655567997171" duration="6114000" />
       <workItem from="1655639548099" duration="981000" />
       <workItem from="1655654161018" duration="600000" />
-      <workItem from="1655721668916" duration="295000" />
+      <workItem from="1655721668916" duration="2038000" />
+      <workItem from="1655723793245" duration="490000" />
+      <workItem from="1655724293874" duration="2828000" />
     </task>
     <servers />
   </component>
@@ -145,10 +143,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="745" y="0" width="579" height="816" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1654865484208" />
-    <state x="425" y="185" key="run.anything.popup" timestamp="1655123017453">
+    <state x="425" y="185" key="run.anything.popup" timestamp="1655724798732">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1655123017453" />
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1655724798732" />
     <state x="431" y="137" key="search.everywhere.popup" timestamp="1654858556767">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
