@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p>Nhập số </p>
+<input type="text" id="1">
+<p>Nhập số </p>
+<input type="text1" id="2">
+
+<br><br>
+<button onclick="convert1()"> Cộng + </button>
+<p id="c" ></p>
+</table>
+<script>
+        function convert1()
+        {
+            let mot = parseInt(document.getElementById('1').value);
+
+            let hai = parseInt(document.getElementById('2').value);
+
+            let c = mot + hai
+            document.getElementById("c").innerHTML  = c
+        }
+</script>
+</table>
+</table>
+<button onclick="convert2()"> Trừ - </button>
+<p id="t" ></p>
+<script>
+    function convert2()
+    {
+        let mot = parseInt(document.getElementById('1').value);
+
+        let hai = parseInt(document.getElementById('2').value);
+
+        let t = mot - hai
+        document.getElementById("t").innerHTML  = t
+    }
+</script>
+</table>
+</table>
+    <button onclick="convert3()"> Nhân* </button>
+        <p id="n" ></p>
+<script>
+        function convert3()
+        {
+            let mot = parseInt(document.getElementById('1').value);
+            let hai = parseInt(document.getElementById('2').value);
+
+            let n = mot * hai
+            document.getElementById("n").innerHTML  = n
+        }
+</script>
+</table>
+<table>
+        <button onclick="convert()"> chia/ </button>
+        <p id="ch" ></p>
+<script>
+        function convert()
+        {
+            let mot = parseInt(document.getElementById('1').value);
+
+            let hai = parseInt(document.getElementById('2').value);
+
+            let ch = mot /   hai
+            document.getElementById("ch").innerHTML  = ch
+        }
+</script>
+</table>
+</body>
+</html>

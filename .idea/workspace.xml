@@ -11,16 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60c58495-0034-4b4b-99f8-73e6fe454d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss4_git)_html/bai_tap/TAOJ FORM DON GIAN.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss5_form_table/bai_tap/dknguoidung.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss5_form_table/bai_tap/laysurveykhachhang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss5_form_table/bai_tap/tkb.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss5_form_table/thuc_hanh/form gg.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss5_form_table/thuc_hanh/taobannangcao.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_form_table/thuc_hanh/3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss4_git)_html/bai_tap/CV ca nhan.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss4_git)_html/bai_tap/CV ca nhan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thuc hanh/6.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss4_git)_html/bai_tap/6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thuc hanh/ảnh thẻ'.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ss4_git)_html/bai_tap/ảnh thẻ'.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6/bt/chuyendoitiente.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6/bt/nhapdiemtinhtrungbinhmon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6/bt/ungdungmaytinh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss4_git)_html/bai_tap/TAOJ FORM DON GIAN.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_form_table/bai_tap/TAOJ FORM DON GIAN.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5_form_table/bai_tap/banco.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_form_table/bai_tap/banco.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5_form_table/bai_tap/tkb.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_form_table/bai_tap/tkb.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -52,15 +51,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\CodeGym\Module1\thuc hanh" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\CodeGym\Module1\ss5_form_table\bai_tap" />
       <recent name="D:\CodeGym\Module1\ss4_git)_html\bai_tap" />
       <recent name="D:\CodeGym\Module1\ss5_form_table\thuc_hanh" />
       <recent name="D:\CodeGym\Module1\ss4_git)_html" />
       <recent name="D:\CodeGym\Module1\ss4_git)_html\thuc_hanh" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\Module1\thuc hanh" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -95,6 +94,26 @@
       <workItem from="1655185871483" duration="5000" />
       <workItem from="1655194313238" duration="267000" />
       <workItem from="1655199112062" duration="4000" />
+      <workItem from="1655216161134" duration="242000" />
+      <workItem from="1655216634557" duration="2000" />
+      <workItem from="1655217931815" duration="68000" />
+      <workItem from="1655219981293" duration="96000" />
+      <workItem from="1655270369204" duration="124000" />
+      <workItem from="1655289334500" duration="5273000" />
+      <workItem from="1655294693656" duration="324000" />
+      <workItem from="1655295036016" duration="2904000" />
+      <workItem from="1655309554872" duration="321000" />
+      <workItem from="1655310005364" duration="44000" />
+      <workItem from="1655462545244" duration="5855000" />
+      <workItem from="1655480554300" duration="861000" />
+      <workItem from="1655481461349" duration="8000" />
+      <workItem from="1655521248434" duration="2220000" />
+      <workItem from="1655564335366" duration="2385000" />
+      <workItem from="1655566796504" duration="1127000" />
+      <workItem from="1655567997171" duration="6114000" />
+      <workItem from="1655639548099" duration="981000" />
+      <workItem from="1655654161018" duration="600000" />
+      <workItem from="1655721668916" duration="295000" />
     </task>
     <servers />
   </component>
