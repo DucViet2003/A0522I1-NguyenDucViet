@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let a = parseFloat(prompt("Nhập sô thứ 1"));
+    let b = parseFloat(prompt("Nhập sô thứ 2"));
+    let c = parseFloat(prompt("Nhập sô thứ 3"));
+    if (a>b && a>c){
+        document.write('a là số lớn nhất');
+    }else if (a>b && a<c){
+        document.write('c là số lơn nhất');
+    }else if (a<b && a>c) {
+        document.write('b là số lơn nhất');
+    }else if (b>a && b>c){
+            document.write('b là số lớn nhất');
+    }else if (b>a && b<c){
+            document.write('c là số lơn nhất');
+    }else if (b<a && b>c){
+            document.write('a là số lơn nhất');
+    }else if (c>a && c>b){
+            document.write('c là số lớn nhất');
+    }else if (c<a && c>b){
+            document.write('a là số lơn nhất');
+    }else if (c>a && c<b) {
+            document.write('b là số lơn nhất');
+    }else
+            document.write('nhập sai rồi !! Nhập lại đi')
+
+</script>
+</body>
+</html>
