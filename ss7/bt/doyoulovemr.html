@@ -6,8 +6,20 @@
 </head>
 <body style="background-color: pink">
 <H1 style="color: forestgreen;">Do You Love Me</H1>
-<button onmouseover="Math.random()" style="background-color: yellow">NO</button>
+<button id="no" style="background-color: yellow" onmouseover="changePosition()">NO</button>
 
-<button onclick="alert('Yêu')" style="background-color: yellow">YES</button>
+<button onclick="alert('Yêu')" style="background-color: yellow" >YES</button>
 </body>
+<script>
+    function changePosition() {
+        let x=   Math.floor((Math.random() * 1000) + 3);
+        let y =  Math.floor((Math.random() * 1000) + 7);
+        let btnNo = document.getElementById("no");
+        btnNo.style.position = "absolute";
+        btnNo.style.left = x +"px";
+        btnNo.style.top = y+"px";
+
+    }
+</script>
 </html>
+

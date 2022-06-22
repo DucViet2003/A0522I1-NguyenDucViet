@@ -11,19 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60c58495-0034-4b4b-99f8-73e6fe454d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss7/bt/01 bai 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7/bt/01bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7/bt/01bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7/bt/01bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7/bt/01bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7/bt/01bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7/bt/01bai7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7/bt/doyoulovemr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7/bt/simple may tinh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7/th/thamkhaomt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7/bt/tinhcannang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bt/tinhcannang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7/th/th kt nam nhuan.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/th/th kt nam nhuan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7/bt/01bai6.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bt/01bai6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7/bt/01bai7.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bt/01bai7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7/bt/doyoulovemr.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bt/doyoulovemr.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +128,8 @@
       <workItem from="1655752031485" duration="940000" />
       <workItem from="1655787016491" duration="9470000" />
       <workItem from="1655830803169" duration="4841000" />
+      <workItem from="1655897083944" duration="1701000" />
+      <workItem from="1655898811427" duration="7166000" />
     </task>
     <servers />
   </component>

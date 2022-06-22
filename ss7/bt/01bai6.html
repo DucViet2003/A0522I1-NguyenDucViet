@@ -12,13 +12,13 @@
     <br>
     <br>
 <p>Hoa Hồng Nhận được</p>
-<select>
-    <option id="1" >0%</option>
-    <option id="2" > 10% </option>
-    <option id="3" > 20% </option>
-    <option id="4" > 30% </option>
-    <option id="5" > 40% </option>
-    <option id="6" > 50% </option>
+<select id="phanTram">
+    <option id="1" value="1" >0%</option>
+    <option id="2" value="2"> 10% </option>
+    <option id="3" value="3" > 20% </option>
+    <option id="4" value="4"> 30% </option>
+    <option id="5" value="5"> 40% </option>
+    <option id="6" value="6"> 50% </option>
 </select>
     <br>
     <br>
@@ -31,33 +31,21 @@
 <form style="width:100px">
     <script>
         function convert() {
-            let tien = document.getElementById('nhaptien').value;
-            let phantram1 =  (document.getElementById('1').value = 0 );
-            let phantram2 =  (document.getElementById('2').value = 1 );
-            let phantram3 =  (document.getElementById('3').value = 2 );
-            let phantram4 =  (document.getElementById('4').value = 3 );
-            let phantram5 =  (document.getElementById('5').value = 4 );
-            let phantram6 =  (document.getElementById('6').value = 5 );
+            let tien = parseInt(document.getElementById('nhaptien').value);
+            let hoaHong = parseInt(document.getElementById("phanTram").value);
 
-            let nhanduoc1 = tien / 100 * phantram1
-            let nhanduoc2 = tien / 100 * phantram2
-            let nhanduoc3 = tien / 100 * phantram3
-            let nhanduoc4 = tien / 100 * phantram4
-            let nhanduoc5 = tien / 100 * phantram5
-            let nhanduoc6 = tien / 100 * phantram6
-
-            if (phantram1) {
-                document.getElementById("lumlua").innerHTML = nhanduoc1
-            }else if (phantram2) {
-                document.getElementById("lumlua").innerHTML = nhanduoc2
-            }else if (phantram3) {
-                document.getElementById("lumlua").innerHTML = nhanduoc3
-            }else if (phantram4) {
-                document.getElementById("lumlua").innerHTML = nhanduoc4
-            }else if (phantram5) {
-                document.getElementById("lumlua").innerHTML = nhanduoc5
-            }else if (phantram6) {
-                document.getElementById("lumlua").innerHTML = nhanduoc6
+            if (hoaHong ===  1) {
+                document.getElementById("lumlua").innerHTML = 0;
+            }else if (hoaHong ===  2) {
+                document.getElementById("lumlua").innerHTML = tien /100 * 10;
+            }else if (hoaHong ===  3) {
+                document.getElementById("lumlua").innerHTML = tien /100 * 20;
+            }else if (hoaHong ===  4) {
+                document.getElementById("lumlua").innerHTML = tien /100 * 30;
+            }else if (hoaHong ===  5) {
+                document.getElementById("lumlua").innerHTML = tien /100 * 40;
+            }else if (hoaHong ===  6) {
+                document.getElementById("lumlua").innerHTML = tien /100 * 50;
             }
         }
     </script>
