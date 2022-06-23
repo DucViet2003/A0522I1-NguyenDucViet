@@ -11,16 +11,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60c58495-0034-4b4b-99f8-73e6fe454d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7/bt/02bai9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7/bt/01bai6.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bt/01bai6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7/bt/01bai7.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bt/01bai7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7/bt/02bai7.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bt/02bai7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ss7/bt/doyoulovemr.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bt/doyoulovemr.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +126,9 @@
       <workItem from="1655787016491" duration="9470000" />
       <workItem from="1655830803169" duration="4841000" />
       <workItem from="1655897083944" duration="1701000" />
-      <workItem from="1655898811427" duration="7166000" />
+      <workItem from="1655898811427" duration="7739000" />
+      <workItem from="1655907066691" duration="332000" />
+      <workItem from="1655965008943" duration="5060000" />
     </task>
     <servers />
   </component>
@@ -161,6 +160,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1654858234746" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1655966085403">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.816@0.0.1536.816" timestamp="1655966085403" />
     <state x="745" y="0" width="579" height="816" key="find.popup" timestamp="1654865484208">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
