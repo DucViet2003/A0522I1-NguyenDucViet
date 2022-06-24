@@ -2,7 +2,16 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>maytinhnangcao</title>
+    <style>
+        .button{
+            width: 38px;
+            height: 38px;
+            margin: 11.1px 11.1px 11.1px 11.1px;
+            color: blue;
+            font-size: 20px;
+        }
+    </style>
 </head>
 <style>
     table tr,td {
@@ -11,54 +20,55 @@
     }
 </style>
 <body>
-<form method="post" action="http://demo.codegym.vn.php" style="width:200px">
-    Nguyễn Đức Việt
-    <fieldset>
-        <legend><h1><span style="color: red">Casio</span></h1></legend>
+<fieldset style="width: 257.33px;border: 4px solid #ffbf00;border-radius: 11px;margin: auto;margin-top: 100px;background-color: hotpink">
+    <table>
+        <tr>
+            <input type="text" style="height: 33px;width: 250px;margin-top: 10px;border: 2px solid green;border-radius: 7px;color: cornflowerblue " id="display">
+        </tr>
 
-        <table >
-<input type="text"; style="width: 175px; background-color: pink">
-
-            <br>
-            <br>
             <tr>
-                <td> <button style="width: 40px" id="1" onclick="nhap">1</button></td>
-                <td> <button style="width: 40px" id="2" onclick="nhap">2</button></td>
-                <td> <button style="width: 40px" id="3" onclick="nhap">3</button></td>
-                <td> <button style="width: 40px" id="+" onclick="nhap">+</button></td>
+                <td><button class="button"  onclick="nhap('1')" id="1">1</button></td>
+                <td><button class="button"  onclick="nhap('2')" id="2">2</button></td>
+                <td><button class="button"  onclick="nhap('3')" id="3">3</button></td>
+                <td><button class="button"  onclick="nhap('+')" id="+">+</button></td>
             </tr>
             <tr>
-                <td> <button style="width: 40px" id="4" onclick="nhap">4</button></td>
-                <td> <button style="width: 40px" id="5" onclick="nhap">5</button></td>
-                <td> <button style="width: 40px" id="6" onclick="nhap">6</button></td>
-                <td> <button style="width: 40px" id="-" onclick="nhap">-</button></td>
+                <td><button class="button"  onclick="nhap('4')" id="4">4</button></td>
+                <td><button class="button"  onclick="nhap('5')" id="5">5</button></td>
+                <td><button class="button"  onclick="nhap('6')" id="6">6</button></td>
+                <td><button class="button"  onclick="nhap('-')" id="-">-</button></td>
             </tr>
             <tr>
-                <td> <button style="width: 40px" id="7" onclick="nhap">7</button></td>
-                <td> <button style="width: 40px" id="8" onclick="nhap">8</button></td>
-                <td> <button style="width: 40px" id="9" onclick="nhap">9</button></td>
-                <td> <button style="width: 40px" id="*" onclick="nhap">*</button></td>
+                <td><button class="button"  onclick="nhap('7')" id="7">7</button></td>
+                <td><button class="button"  onclick="nhap('8')" id="8">8</button></td>
+                <td><button class="button"  onclick="nhap('9')" id="9">9</button></td>
+                <td><button class="button"  onclick="nhap('*')" id="*">*</button></td>
             </tr>
             <tr>
-                <td> <button style="width: 40px" id="c" onclick="nhap">C</button></td>
-                <td> <button style="width: 40px" id="0" onclick="nhap">0</button></td>
-                <td> <button style="width: 40px" id="=" onclick="nhap">=</button></td>
-                <td> <button style="width: 40px" id="/" onclick="nhap">/</button></td>
+                <td><button class="button"  onclick="nhapAC('AC')" id="AC">AC</button></td>
+                <td><button class="button"  onclick="nhap('0')" id="0">0</button></td>
+                <td><button class="button"  onclick="nhap2('=')" id="=">=</button></td>
+                <td><button class="button"  onclick="nhapbang('/')" id="/">/</button></td>
             </tr>
 
 
         </table>
-        <script>
-            function  nhap() {
-                let nhap
-                switch (nhap) {
+</fieldset>
+    <script>
+        function nhap(value) {
+            document.getElementById("display").value += value;
+        }
+        function nhapbang() {
+            let x =  document.getElementById("display").value;
+            document.getElementById("display").value = eval(x);
+        }
+        function nhapAC() {
+            document.getElementById("display").value = null;
 
-                }
-            }
-
-        </script>
-            </fieldset>
-
+        }
+    </script>
+</body>
+</html>
 </form>
 </body>
 </html>
