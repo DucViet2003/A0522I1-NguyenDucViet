@@ -12,12 +12,12 @@
     var dem = 0;
     var n = 1;
     function Snt(a) {
-        if (a <= 2) {
+        if (a < 2) {
             return false;
         } else if (a == 2) {
             return  true;
         } else {
-            for (var i = 3; i <= Math.sqrt(a); i++) {
+            for (var i = 2; i <= Math.sqrt(a); i++) {
                 if (a % i == 0) {
                     return kq = false;
                 }
@@ -28,7 +28,7 @@
 
     while (dem < number) {
         if (Snt(n) == true) {
-            document.write(n + "<br>");
+            document.write(n + " ");
             dem++;
         }
         n++

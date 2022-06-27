@@ -2,9 +2,35 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>bai02ne</title>
 </head>
 <body>
+<script>
+    let a ;
+    do{
+        a = parseInt(prompt("Nhập vào sô nhiệt độ hiện tại"));
+        if(a>80){
+            alert("giảm nhiệt dộ")
+        }else if (a<20){
+            alert("tăng nhiệt độ")
+        }else {
+            alert("Nhiệt độ là :" + a);
+        }
+    }while (a<20 || a >80)
+    // if (a >= 20 && a <= 80) {
+    //     document.write("Nhiệt độ hiện tại là : " + a)
+    // } else if (a < 20) {
+    //     do {
+    //         a = prompt("Tăng nhiệt độ");
+    //     } while (a < 20);
+    //     document.write("Nhiệt độ hiện tại là : " + a)
+    // } else if (a > 80) {
+    //     do {
+    //         a = prompt("Giam nhiệt độ");
+    //     } while (a > 80);
+    //     document.write("Nhiệt độ hiện tại là : " + a)
+    // }
 
+</script>
 </body>
 </html>

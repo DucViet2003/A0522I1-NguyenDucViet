@@ -11,14 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60c58495-0034-4b4b-99f8-73e6fe454d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss8 for/bt/01bai01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss8 for/bt/01bai02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss8 for/bt/bangcuuchuong.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss8 for/bt/songuyento.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss8 for/bt/01bai03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss8 for/bt/01bai04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss8 for/bt/01bai05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc hanh/ducvu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7 for/th/th vong lap long nhau.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7 for/th/vonglapfor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7/bt/simple may tinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bt/simple may tinh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7/bt/01 bai 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bt/01 bai 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7/bt/doyoulovemr.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bt/doyoulovemr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8 for/bt/01bai01.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8 for/bt/01bai01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8 for/bt/01bai02.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8 for/bt/01bai02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8 for/bt/songuyento.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8 for/bt/songuyento.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +137,12 @@
       <workItem from="1655992300237" duration="715000" />
       <workItem from="1656066525355" duration="6750000" />
       <workItem from="1656076510447" duration="2491000" />
-      <workItem from="1656081991799" duration="2228000" />
+      <workItem from="1656081991799" duration="2472000" />
+      <workItem from="1656086101345" duration="542000" />
+      <workItem from="1656162525109" duration="148000" />
+      <workItem from="1656162944378" duration="1598000" />
+      <workItem from="1656250043727" duration="3937000" />
+      <workItem from="1656326460603" duration="6325000" />
     </task>
     <servers />
   </component>
