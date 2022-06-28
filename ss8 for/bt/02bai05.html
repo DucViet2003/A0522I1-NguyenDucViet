@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>laimelaicon</title>
+</head>
+<body>
+<script>
+    let tien;
+    let Lai;
+    let Tra;
+    let soTien = parseFloat(prompt("Nhập số tiền muốn vay : "));
+    let Thang = parseInt(prompt("Thời gian trả là bao nhiêu tháng"));
+    if (Thang > 12) {
+        tien = 15;
+        Lai = soTien * 18 / 10;
+        Tra = (soTien+tien) / Thang + 500;
+    } else if (Thang > 6) {
+        tien = 10;
+        Lai = soTien * 10 / 10;
+        Tra = (soTien+tien) / Thang + 500;
+    } else {
+        tien = 5;
+        Lai = soTien * 5 / 10;
+        Tra = (soTien+tien) / Thang + 500;
+    }
+    document.writeln("Lãi suất hàng tháng là: " + Lai);
+    document.write("&nbsp&nbsp");
+    document.writeln("Số tiền phải trả hàng tháng: " + Tra);
+</script>
+</body>
+</html>

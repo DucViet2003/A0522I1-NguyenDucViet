@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>tròchoi</title>
+</head>
+<body>
+
+<form method="post" style="width:600px">
+    <fieldset>
+        <legend><h1 style="margin: 10px 100px 10px 150px"><span style="color: red">Hãy Thử Đoán Xem</span></h1></legend>
+        <br><br><br>
+
+        <button id="choi" onclick="let a = prompt('Nhập vào một số')"
+                style="background-color: chartreuse;width: 50px;height: 50px;margin: 0px 150px">Chơi
+        </button>
+        <button onclick="alert('Mấy con gà !!! không dám chơi')" style="background-color: red;width: 50px;height: 50px">
+            Không
+        </button>
+        <script>
+            function       {
+                do {
+                    if (a == 20) {
+                        document.write("Chúc mừng bạn đã nhập đúng")
+                    } else if (a < 20) {
+                        document.write("Số đó lớn hơn")
+                    } else if (a > 20) {
+                        document.write("Số đó bé hơn")
+                    }
+
+                } while (a < 20 || a > 20)
+            }
+
+        </script>
+        <br><br><br><br>
+
+    </fieldset>
+</form>
+</body>
+</html>
