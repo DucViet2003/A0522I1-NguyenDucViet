@@ -11,20 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60c58495-0034-4b4b-99f8-73e6fe454d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss8 for/bt/01bai06.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss8 for/bt/01bai07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss8 for/bt/01bai08.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss8 for/bt/02bai01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss8 for/bt/02bai02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss8 for/bt/02bai03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss8 for/bt/02bai04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss8 for/bt/02bai05.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss8 for/bt/02bai06.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8 for/bt/01bai01.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8 for/bt/01bai01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8 for/bt/01bai03.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8 for/bt/01bai03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8 for/bt/01bai04.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8 for/bt/01bai04.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8 for/bt/01bai05.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8 for/bt/01bai05.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8 for/bt/01bai08.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8 for/bt/01bai08.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8 for/bt/02bai06.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8 for/bt/02bai06.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +138,11 @@
       <workItem from="1656326460603" duration="6518000" />
       <workItem from="1656345348007" duration="8751000" />
       <workItem from="1656427032010" duration="6352000" />
+      <workItem from="1656437263891" duration="3000" />
+      <workItem from="1656441251467" duration="3000" />
+      <workItem from="1656441263568" duration="2000" />
+      <workItem from="1656442718893" duration="2000" />
+      <workItem from="1656499026884" duration="1808000" />
     </task>
     <servers />
   </component>
