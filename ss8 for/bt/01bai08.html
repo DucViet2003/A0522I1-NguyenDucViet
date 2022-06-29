@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<form method="post" style="width:600px">
+<form method="post" style="width:600px;background-color: powderblue">
     <fieldset>
         <legend><h1 style="margin: 10px 100px 10px 150px"><span style="color: red">Hãy Thử Đoán Xem</span></h1></legend>
         <br><br><br>
@@ -14,24 +14,31 @@
         <button type="button" id="choi" onclick="a()"
                 style="background-color: chartreuse;width: 50px;height: 50px;margin: 0px 150px">Chơi
         </button>
-        <button onclick="alert('LEW LEW...Mấy con gà !!! có thế mà không dám chơi')" style="background-color: red;width: 50px;height: 50px">
+        <button onclick="alert('LEW LEW...Mấy con gà !!! có thế mà không dám chơi')"
+                style="background-color: red;width: 50px;height: 50px">
             Không
         </button>
         <script>
-            function a()      {
+            function a() {
                 let a;
+                let b =  Math.floor(Math.random()*100)
+                console.log(b)
                 do {
-                    a = parseInt(prompt('Nhập vào một số'))
-                    if (a == 20) {
+                    a = parseInt(prompt('Nhập vào hai số'))
+                    if (a === b) {
                         document.write("Chúc mừng bạn đã nhập đúng")
-                    } else if (a < 20) {
+                    } else if (a < 10){
+                        alert("Đề bắt nhập hai số mà ba")
+                    } else if (a < b) {
                         alert("Số đó lớn hơn")
-                    } else if (a > 20) {
+                    } else if (a >= 100) {
+                        alert("Có đọc đề không vậy ba")
+                    } else if (a > b) {
                         alert("Số đó bé hơn")
                     }
 
-                } while (a < 20 || a > 20)
-                prompt("Nhập lại")
+                } while (a < b || a > b)
+
             }
 
         </script>
