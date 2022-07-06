@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hamcosan</title>
+</head>
+<body>
+<script>
+    let myColor = ["Red", "Green", "White", "Black"];
+    document.writeln(myColor.toString());
+    document.writeln(myColor.join());
+    document.writeln(myColor.join('+'));
+</script>
+<br>
+<br>
+<br>
+<br>
+<script>
+    let chuoi = prompt("Nhập vào một chuỗi kí tự")
+    let UPPER = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+    let lower = 'abcdefghijklmnopqrstuvwxyz';
+    let result = [];
+
+    for (let x = 0; x < chuoi.length; x++) {
+        if (UPPER.indexOf(chuoi[x]) !== -1) {
+            result.push(chuoi[x].toLowerCase());
+        } else if (lower.indexOf(chuoi[x]) !== -1) {
+            result.push(chuoi[x].toUpperCase());
+        } else {
+            result.push(chuoi[x]);
+        }
+    }
+    document.writeln(result.join(''));
+</script>
+<br>
+<br>
+<br>
+<br>
+<script>
+    const so = window.prompt("Nhập vào một dãy số");
+    const daykitu = so.toString();
+    const sapxep = [daykitu[0]];
+
+    for (let x = 1; x < daykitu.length; x++) {
+        if ((daykitu[x - 1] % 2 === 0) && (daykitu[x] % 2 === 0)) {
+            sapxep.push('-', daykitu[x]);
+        } else {
+            sapxep.push(daykitu[x]);
+        }
+    }
+    document.writeln(sapxep.join(''));
+</script>
+</body>
+</html>
