@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let arr = [];
+    let donvido;
+    donvido = +prompt("Nhập vào");
+    for(let i=0;i<donvido;i++){
+        arr[i] = Math.floor(Math.random()*100);
+    }
+    let AverangeValue;
+    let sum =0;
+    let max = arr[0]
+    for(let i=0;i<donvido;i++){
+        sum+=arr[i];
+        if(arr[i]>max){
+            max = arr[i];
+        }
+    }
+    AverangeValue = sum/donvido;
+    document.write("arr = "+arr+"<br>");
+    document.write("Giá trị trung bình của mảng là = "+ AverangeValue+"<br>");
+    document.write("giá trị lớn nhất trong mảng là = "+ max)
+</script>
+</body>
+</html>

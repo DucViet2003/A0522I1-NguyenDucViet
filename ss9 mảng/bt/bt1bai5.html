@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let str = prompt("enter you  ten number");
+    let all = str.split(" ");
+    let index;
+    for (let i = 0; i < all.length; i++) {
+        if (all[i] < 0) {
+            index = i;
+            console.log(all[i])
+            document.write(" Số âm là " + all[i] + " tai so thu tu " + index + "<br>")
+        }
+    }
+</script>
+</body>
+</html>

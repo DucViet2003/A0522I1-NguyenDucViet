@@ -11,17 +11,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60c58495-0034-4b4b-99f8-73e6fe454d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/hha.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/sudunghamcosancuamang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/tudien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt2bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt2bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt2bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt2bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt2bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt2bai6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_form_table/bai_tap/TAOJ FORM DON GIAN.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_form_table/bai_tap/TAOJ FORM DON GIAN.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_form_table/bai_tap/laysurveykhachhang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_form_table/bai_tap/laysurveykhachhang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7/bt/doyoulovemr.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bt/doyoulovemr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7/bt/simple may tinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bt/simple may tinh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8 for/bt/01bai08.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8 for/bt/01bai08.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8 for/bt/02bai05.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8 for/bt/02bai05.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8 for/bt/tamgiaccan.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8 for/bt/tamgiaccan.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,6 +174,8 @@
       <workItem from="1657038664227" duration="1014000" />
       <workItem from="1657044691616" duration="1817000" />
       <workItem from="1657115476337" duration="2493000" />
+      <workItem from="1657247197885" duration="455000" />
+      <workItem from="1657376822309" duration="1486000" />
     </task>
     <servers />
   </component>
