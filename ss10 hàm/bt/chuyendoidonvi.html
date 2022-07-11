@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>metfeet</title>
+</head>
+<body>
+
+<!--    <table>-->
+<!--        <h1>Chuyển Đổi Đơn Vị</h1>-->
+<!--        <p>Nhập vào số muốn chuyển đổi</p>-->
+<!--        <input type="text" id="nhapso">-->
+<!--        <br>-->
+<!--        <p>Đơn vị ban đầu</p>-->
+<!--        <select>-->
+<!--            <option>meters</option>-->
+<!--            <option>feet</option>-->
+<!--        </select>-->
+<!--        <br>-->
+<!--        <p>Đơn vị muốn đổi sang</p>-->
+<!--        <select>-->
+<!--            <option>feet</option>-->
+<!--            <option>meters</option>-->
+<!--        </select>-->
+<!--        <br><br>-->
+
+<!--        <button onclick="convert1()" style="background-color: powderblue">Chuyển Đổi</button>-->
+<!--        <p id="chuyendoi"></p>-->
+<!--    </table>-->
+<!--    <script>-->
+<!--        function convert1() {-->
+
+<!--            function meters(foot) {-->
+<!--                var foot = document.getElementById("nhapso").value;-->
+<!--                document.write(a + " meters = " + foot(a) + " foot");-->
+<!--                var meters = document.getElementById("nhapso").value;-->
+<!--                document.write(a + " foot = " + meters(a) + " meters");-->
+<!--                return mot = 0.305 * a;-->
+<!--            }-->
+
+<!--            function foot(meters) {-->
+<!--                var meters = document.getElementById("nhapso").value;-->
+<!--                document.write(a + " foot = " + meters(a) + " meters");-->
+<!--                var foot = document.getElementById("nhapso").value;-->
+<!--                document.write(a + " meters = " + foot(a) + " foot");-->
+<!--                return hai = 3.279 * a;-->
+<!--            }-->
+<!--            document.getElementById("chuyendoitien").innerHTML=mot-->
+<!--            document.getElementById("chuyendoitien").innerHTML=hai-->
+<!--        }-->
+<!--    </script>-->
+
+<table>
+    <h1>CHUYỂN ĐỔI ĐƠN VỊ</h1>
+    <br>
+    <br>
+    <button onclick="meter()">Chuyển từ Meters sang Feet</button>
+    <button onclick="foot()">Chuyển từ Feet sang Meters</button>
+</table>
+<script>
+    function meter() {
+        let a = parseInt(prompt("Nhập foot: "));
+        document.writeln((0.305 * a).toString());
+    }
+
+    function foot() {
+        let b = parseInt(prompt("Nhập meter"));
+        document.writeln((3.279 * b).toString());
+    }
+
+</script>
+</body>
+</hNhập

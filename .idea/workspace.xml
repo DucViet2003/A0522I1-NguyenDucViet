@@ -11,22 +11,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60c58495-0034-4b4b-99f8-73e6fe454d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt2bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt2bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt2bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt2bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt2bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt2bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10 hàm/bt/11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10 hàm/bt/12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10 hàm/bt/13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10 hàm/bt/14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10 hàm/bt/15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10 hàm/bt/chuyendoidonvi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10 hàm/bt/kiemtrasonguyento.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10 hàm/th/th1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10 hàm/th/th2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10 hàm/th/th3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9 mảng/bt/bt2bai6.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt2bai6.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,6 +172,9 @@
       <workItem from="1657115476337" duration="2493000" />
       <workItem from="1657247197885" duration="455000" />
       <workItem from="1657376822309" duration="1486000" />
+      <workItem from="1657378757816" duration="29000" />
+      <workItem from="1657498918289" duration="67000" />
+      <workItem from="1657535397050" duration="11747000" />
     </task>
     <servers />
   </component>

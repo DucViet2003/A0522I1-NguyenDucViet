@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p style="color: deeppink">Nhập vào mốt số</p>
+<br><br>
+<input type="text" id="Value">
+<br><br>
+<button onclick="tang1donvi()" style="background-color: chartreuse">Tăng lên 1 đơn vị</button>
+<button onclick="resert()" style="background-color: cornflowerblue">Resert</button>
+<p id="kq"></p>
+<script>
+    function tang1donvi() {
+        let a= +document.getElementById("Value").value+1;
+        document.getElementById("kq").innerHTML=a;
+    }
+    function resert() {
+        document.getElementById("Value").value="";
+        document.getElementById("kq").innerHTML="";
+    }
+</script>
+</body>
+</html>
