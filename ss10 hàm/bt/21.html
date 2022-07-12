@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" id="tinhbinhphuong">
+<br><br>
+<button onclick="binhphuong()">Tính Bình Phương Một Số</button>
+<button onclick="resert()">Resert</button>
+<p id="kq"></p>
+<script>
+    function binhphuong() {
+        let a = document.getElementById("tinhbinhphuong").value;
+        b = a * a;
+        document.getElementById("kq").innerHTML = b;
+    }
+
+    function resert() {
+        document.getElementById("tinhbinhphuong").value = "";
+        document.getElementById("kq").innerHTML = "";
+    }
+</script>
+</body>
+</html>

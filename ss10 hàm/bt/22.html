@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" id="dtcv">
+<br><br>
+<button onclick="Dientich()" id="dientich">Tính Diện Tích</button>
+<button onclick="Chuvi()" id="chuvi">Tính Chu Vi</button>
+<button onclick="resert()">Resert</button>
+<p id="haha"></p>
+<script>
+    const PI = 3.14;
+
+    function Dientich() {
+        let r = document.getElementById("dtcv").value;
+        dt = PI * r * r;
+        document.getElementById("haha").innerHTML = dt
+    }
+
+    function Chuvi() {
+        let r = document.getElementById("dtcv").value;
+        chuvi = 2 * PI * r;
+        document.getElementById("haha").innerHTML = chuvi
+    }
+
+    function resert() {
+        document.getElementById("dtcv").value = "";
+        document.getElementById("haha").innerHTML = "";
+    }
+
+</script>
+</body>
+</html>
