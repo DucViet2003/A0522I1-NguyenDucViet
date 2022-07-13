@@ -5,6 +5,20 @@
     <title>Title</title>
 </head>
 <body>
-
+<script>
+    function daomang() {
+        let n = prompt("Mãng có bao nhiêu số : ");
+        let a=[];
+        for(let i=0; i<n;i++)
+        {
+            a[i]=+prompt("Nhập giá trị  "+ i + " :");
+        }
+        document.writeln(a.toString());
+        let b= a.reverse();
+        document.writeln("<br>");
+        document.writeln(b.toString());
+    }
+    daomang()
+</script>
 </body>
 </html>

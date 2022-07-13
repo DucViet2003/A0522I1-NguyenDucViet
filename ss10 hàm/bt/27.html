@@ -5,6 +5,26 @@
     <title>Title</title>
 </head>
 <body>
+<script>
+    let a = parseInt(prompt("Nhập vào số thứ nhất"))
+    let b = parseInt(prompt("Nhập vào số thứ hai"))
 
+    function hoanvi(a, b) {
+        let tg;
+        tg = a;
+        a = b;
+        b = tg;
+        document.write(a + " và " + b)
+    }
+
+    document.writeln("Chưa Hoán Đổi : ");
+
+    document.write(a + " và " + b);
+    document.write("<br>");
+    document.writeln("Đã Hoán Đổi : ");
+
+    hoanvi(a, b);
+
+</script>
 </body>
 </html>

@@ -5,6 +5,20 @@
     <title>Title</title>
 </head>
 <body>
+<script>
+    function checksnd(so)
+    {
+        if(so>0)
+            document.write("True");
+        else if(so<0)
+            document.write("False");
+        else
+            document.write("Không phải là số âm cũng không phải là số dương")
+    }
+    let a= parseInt(prompt("Nhập số muốn kiểm tra"));
 
+    checksnd(a.toString())
+
+</script>
 </body>
 </html>

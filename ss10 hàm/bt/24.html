@@ -5,6 +5,23 @@
     <title>haha</title>
 </head>
 <body>
+<input type="text" id="kitu">
+<button onclick="Kiemtra()">Kiểm Tra Đó Phải Là Một Số Hay không</button>
+<button onclick="resert()">Resert</button>
+<p id="kt"></p>
+<script>
+    function Kiemtra() {
+        let a = document.getElementById("kitu").value;
+        if (a == parseInt(a)) {
+            document.getElementById("kt").innerHTML = 'True'
+        } else
+            document.getElementById("kt").innerHTML = 'False'
+    }
 
+    function resert() {
+        document.getElementById("kitu").value = "";
+        document.getElementById("kt").innerHTML = "";
+    }
+</script>
 </body>
 </html>
