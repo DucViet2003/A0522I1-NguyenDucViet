@@ -6,7 +6,13 @@
 </head>
 <body>
 <script>
-    let int=[0,1,2,3,4,5];
+    let n = prompt("Mãng có bao nhiêu số : ");
+    let int=[];
+    for(let i=0; i<n;i++)
+    {
+        int[i]=+prompt("Nhập giá trị  "+ i + " :");
+    }
+
     document.writeln(int.reverse());
 </script>
 </body>

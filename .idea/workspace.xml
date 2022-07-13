@@ -11,14 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60c58495-0034-4b4b-99f8-73e6fe454d97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lthdt/bt/hcn.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10 hàm/bt/23.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10 hàm/bt/23.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10 hàm/bt/24.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10 hàm/bt/24.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10 hàm/bt/25.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10 hàm/bt/25.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10 hàm/bt/26.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10 hàm/bt/26.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10 hàm/bt/27.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10 hàm/bt/27.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10 hàm/bt/28.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10 hàm/bt/28.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10 hàm/bt/29.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10 hàm/bt/29.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss10 hàm/bt/22.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10 hàm/bt/22.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,6 +169,7 @@
       <workItem from="1657535397050" duration="12596000" />
       <workItem from="1657593323708" duration="3982000" />
       <workItem from="1657597787676" duration="5009000" />
+      <workItem from="1657711424187" duration="2559000" />
     </task>
     <servers />
   </component>
@@ -228,6 +225,12 @@
           <url>file://$PROJECT_DIR$/ss8 for/bt/bangcuuchuong.html</url>
           <line>18</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ss9 mảng/bt/bt1bai2.html</url>
+          <line>8</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
