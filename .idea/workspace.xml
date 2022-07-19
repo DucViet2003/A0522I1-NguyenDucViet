@@ -11,10 +11,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60c58495-0034-4b4b-99f8-73e6fe454d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lthdt/bt/hcn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lthdt/bt/hcnbt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lthdt/bt/motaTemperature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10 hàm/bt/baikho1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10 hàm/bt/22.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10 hàm/bt/22.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9 mảng/bt/bt1bai4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lthdt/bt/hcn.html" beforeDir="false" afterPath="$PROJECT_DIR$/lthdt/bt/hcn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7/bt/doyoulovemr.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bt/doyoulovemr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7/bt/simple may tinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bt/simple may tinh.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,15 +50,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\CodeGym\Module1\thuc hanh" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\CodeGym\Module1\ss7\bt" />
       <recent name="D:\CodeGym\Module1\ss5_form_table\bai_tap" />
       <recent name="D:\CodeGym\Module1\ss4_git)_html\bai_tap" />
       <recent name="D:\CodeGym\Module1\ss5_form_table\thuc_hanh" />
       <recent name="D:\CodeGym\Module1\ss4_git)_html" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\Module1\thuc hanh" />
     </key>
   </component>
   <component name="RunManager">
@@ -170,6 +173,21 @@
       <workItem from="1657593323708" duration="3982000" />
       <workItem from="1657597787676" duration="5009000" />
       <workItem from="1657711424187" duration="2559000" />
+      <workItem from="1657715583502" duration="5768000" />
+      <workItem from="1657728621485" duration="135000" />
+      <workItem from="1657736278842" duration="620000" />
+      <workItem from="1657766644387" duration="21000" />
+      <workItem from="1657766870772" duration="254000" />
+      <workItem from="1657767422263" duration="166000" />
+      <workItem from="1657780039193" duration="2080000" />
+      <workItem from="1657782588596" duration="509000" />
+      <workItem from="1657880852431" duration="5585000" />
+      <workItem from="1657930486943" duration="3331000" />
+      <workItem from="1657944166665" duration="4389000" />
+      <workItem from="1658140837705" duration="6458000" />
+      <workItem from="1658209928874" duration="61000" />
+      <workItem from="1658210008602" duration="88000" />
+      <workItem from="1658229223267" duration="9000" />
     </task>
     <servers />
   </component>
@@ -229,7 +247,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/ss9 mảng/bt/bt1bai2.html</url>
           <line>8</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

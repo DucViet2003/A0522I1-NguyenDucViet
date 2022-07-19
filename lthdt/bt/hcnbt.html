@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<canvas id="canvas" width="1000" height="500" style="border: 5px solid red"></canvas>
+<script>
+    let dai = parseInt(prompt("Nhập chiều dài"));
+    let rong = parseInt(prompt("Nhập chiều rộng"));
+    let hinhchuhat = function (dai, rong) {
+
+        this.dai = dai;
+
+        this.rong = rong;
+
+        this.getdthcn = dai * rong;
+
+        this.getcvhcn = (dai + rong) * 2;
+    };
+    function getRanDomHex() {
+        return Math.floor(Math.random() * 255)
+    }
+    function getRanDomColor() {
+        let pink = getRanDomHex();
+        let green = getRanDomHex();
+        let yellow = getRanDomHex();
+        return "rgb(" + pink + "," + yellow + "," + green + ")";
+    }
+    function veHCN() {
+        let ctx = document.getElementById("canvas").getContext("2d");
+        let color = getRanDomColor();
+        let hcn = new hinhchuhat(dai, rong);
+        ctx.beginPath();
+        ctx.fillStyle = color;
+        ctx.fillRect(50, 50, hcn.dai, hcn.rong);
+        document.write("<br>");
+        let dt = hcn.getdthcn;
+        document.writeln("Diện tích HCN là: " + dt);
+        document.write("<br>");
+        let cv = hcn.getcvhcn;
+        document.writeln("Chu vi HCN la: " + cv);
+    }
+    veHCN();
+</script>
+</body>
+</html>

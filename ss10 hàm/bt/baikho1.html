@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<style>
+    .chartreuse {
+        background-color: chartreuse;
+    }
+</style>
+<h1>
+    Add New Product
+</h1>
+<input type="text" id="nhapvao" placeholder="New Product" style="width: 300px;height: 40px;border-radius: 10px">
+<button onclick="kichchuot()" style="width: 100px;height: 50px;border-radius: 10px" class="chartreuse">Add
+</button>
+<p id="them"></p>
+<h1>
+    Display All Product
+</h1>
+<tr>
+    <td><h3>Product Name</h3></td>
+    <td>products</td>
+
+</tr>
+
+<br>
+<script>
+    function kichchuot() {
+        var a = document.getElementById("nhapvao");
+        document.getElementById("them").innerText = a
+    }
+    document.writeln(a+"<button>Edit</button>")
+</script>
+</body>
+</html>

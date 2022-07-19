@@ -45,7 +45,9 @@
     {
         let ctx=document.getElementById("canvas").getContext("2d");
         let color=getRanDomColor();
-        let hcn= new hinhchuhat(200,100);
+        let a = parseInt(prompt("Nhập chiều dài"))
+        let b = parseInt(prompt("Nhập chiều rộng"))
+        let hcn= new hinhchuhat(a,b);
         ctx.beginPath();
         ctx.fillRect(50,50,hcn.x,hcn.y);
         ctx.fillStyle=color;

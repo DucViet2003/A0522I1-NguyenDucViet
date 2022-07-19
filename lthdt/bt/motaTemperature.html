@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let nhieudo = function (nhietdo) {
+        this.doc = nhietdo
+
+
+        this.setdoc = function (nhietdo) {
+            this.doc = nhietdo
+
+        }
+        this.getdoc = function () {
+            return this.doc
+        }
+        this.chuyendoif = function () {
+            return this.doc * 1.8 + 32
+
+        }
+        this.chuyendoikeven = function () {
+            return this.doc + 273.15
+
+        }
+
+    }
+    let nhiet_do = new nhieudo()
+    let set_do = nhiet_do.setdoc(+prompt('nhập vào độ C để chuyển đổi'))
+    let get_do = nhiet_do.getdoc()
+    let chuyen_do_f = nhiet_do.chuyendoif()
+    let chuyen_do_k = nhiet_do.chuyendoikeven()
+
+    document.write('nhiệt độ F là ' + chuyen_do_f + '<br>'+'nhiệt độ Kenvin là ' + chuyen_do_k)
+</script>
+
+</body>
+</html>
