@@ -11,13 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60c58495-0034-4b4b-99f8-73e6fe454d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lthdt/bt/hcnbt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lthdt/bt/motaTemperature.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss10 hàm/bt/baikho1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lthdt/bt/adam va eva.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lthdt/bt/congtac.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lthdt/bt/duychuyen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lthdt/bt/hcn.html" beforeDir="false" afterPath="$PROJECT_DIR$/lthdt/bt/hcn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7/bt/doyoulovemr.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bt/doyoulovemr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7/bt/simple may tinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bt/simple may tinh.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,6 +185,11 @@
       <workItem from="1658209928874" duration="61000" />
       <workItem from="1658210008602" duration="88000" />
       <workItem from="1658229223267" duration="9000" />
+      <workItem from="1658251662042" duration="385000" />
+      <workItem from="1658293433843" duration="114000" />
+      <workItem from="1658300110931" duration="130000" />
+      <workItem from="1658313844543" duration="1095000" />
+      <workItem from="1658316974683" duration="3588000" />
     </task>
     <servers />
   </component>
@@ -231,10 +233,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1656861667473" />
-    <state x="431" y="137" key="search.everywhere.popup" timestamp="1656673832844">
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1658314358574">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="431" y="137" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1656673832844" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1658314358574" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

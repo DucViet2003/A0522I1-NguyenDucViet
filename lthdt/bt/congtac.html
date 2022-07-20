@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<fieldset style="border-radius: 50px 50px ;width: 300px ; background: thistle ">
+
+    <h1 style="margin-left: 40px ; color: hotpink">Bật tắt bóng đèn</h1>
+    <img src="bongden/pic_bulboff.gif" id="bongdendien" style="margin-left: 100px ">
+    <br>
+    <br>
+    <button onclick="battat()" style="margin-left: 85px ; background-color: mediumaquamarine ">Bật, Tắt Bóng Đèn</button>
+    <br>
+    <br>
+    <h3 id="hienthi" style="margin-left: 75px ; color: red">Bóng đèn đang tắt</h3>
+
+</fieldset>
+<script>
+    class Battatbongden {
+        constructor(status) {
+            this.status = status;
+        }
+
+        ONOFF() {
+            this.status = !this.status;
+        };
+    }
+
+    class sangden {
+        constructor(button) {
+            this.button = button;
+        }
+
+        switch() {
+            if (this.button.status) {
+                document.getElementById("bongdendien").src = "bongden/pic_bulbon.gif";
+                document.getElementById("hienthi").innerHTML = "Bóng đèn đang bật";
+            } else {
+                document.getElementById("bongdendien").src = "bongden/pic_bulboff.gif";
+                document.getElementById("hienthi").innerHTML = "Bóng đèn đang tắt";
+            }
+        }
+
+    }
+
+    let denbat = new Battatbongden(false);
+    let sang = new sangden(denbat);
+
+    function battat() {
+        denbat.ONOFF();
+        sang.switch();
+    }
+
+</script>
+
+</body>
+</html>
