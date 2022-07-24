@@ -11,10 +11,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60c58495-0034-4b4b-99f8-73e6fe454d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lthdt/bt/adam va eva.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lthdt/bt/congtac.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lthdt/bt/duychuyen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nhap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9 mảng/th/imhoa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tham khao/dem xem co bao nhieu uoc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tham khao/so hoan hao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tham khao/so than thiet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tham khao/tong so chan trong vi tri so le.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lthdt/bt/adam va eva.html" beforeDir="false" afterPath="$PROJECT_DIR$/lthdt/bt/adam va eva.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lthdt/bt/congtac.html" beforeDir="false" afterPath="$PROJECT_DIR$/lthdt/bt/congtac.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pikachu/objects/pikachu.png" beforeDir="false" afterPath="$PROJECT_DIR$/pikachu/objects/pikachu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pikachu/objects/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/pikachu/objects/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss10 hàm/bt/baikho1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10 hàm/bt/baikho1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss4_git)_html/bai_tap/HTML 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss4_git)_html/bai_tap/HTML 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8 for/bt/01bai04.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8 for/bt/01bai04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thao/mang1.7.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +36,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
@@ -33,6 +46,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="29t2tmc6RP0MtsnFuWUEVbcoUUl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,15 +58,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/thuc hanh" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\Module1\tham khao" />
+      <recent name="D:\CodeGym\Module1\lthdt\th" />
       <recent name="D:\CodeGym\Module1\ss7\bt" />
       <recent name="D:\CodeGym\Module1\ss5_form_table\bai_tap" />
       <recent name="D:\CodeGym\Module1\ss4_git)_html\bai_tap" />
-      <recent name="D:\CodeGym\Module1\ss5_form_table\thuc_hanh" />
-      <recent name="D:\CodeGym\Module1\ss4_git)_html" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\CodeGym\Module1\thuc hanh" />
@@ -189,7 +204,14 @@
       <workItem from="1658293433843" duration="114000" />
       <workItem from="1658300110931" duration="130000" />
       <workItem from="1658313844543" duration="1095000" />
-      <workItem from="1658316974683" duration="3588000" />
+      <workItem from="1658316974683" duration="9339000" />
+      <workItem from="1658367035116" duration="450000" />
+      <workItem from="1658367883621" duration="63000" />
+      <workItem from="1658368433164" duration="2273000" />
+      <workItem from="1658388791008" duration="21000" />
+      <workItem from="1658388943947" duration="12000" />
+      <workItem from="1658660201296" duration="126000" />
+      <workItem from="1658660339290" duration="874000" />
     </task>
     <servers />
   </component>
@@ -213,10 +235,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="548" y="71" key="#01_bài_3.html/0.0.1536.816@0.0.1536.816" timestamp="1655790910009" />
-    <state x="526" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1654858318454">
+    <state x="526" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1658660498925">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="526" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1654858318454" />
+    <state x="526" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1658660498925" />
     <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1654858234746">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -229,10 +251,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="745" y="0" width="579" height="816" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1654865484208" />
-    <state x="425" y="185" key="run.anything.popup" timestamp="1656861667473">
+    <state x="425" y="185" key="run.anything.popup" timestamp="1658322091435">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1656861667473" />
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1658322091435" />
     <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1658314358574">
       <screen x="0" y="0" width="1536" height="816" />
     </state>

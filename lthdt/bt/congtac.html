@@ -7,7 +7,7 @@
 <body>
 <fieldset style="border-radius: 50px 50px ;width: 300px ; background: thistle ">
 
-    <h1 style="margin-left: 40px ; color: hotpink">Bật tắt bóng đèn</h1>
+    <h1 style="margin-left: 40px ; color: cornflowerblue">Bật tắt bóng đèn</h1>
     <img src="bongden/pic_bulboff.gif" id="bongdendien" style="margin-left: 100px ">
     <br>
     <br>
@@ -17,13 +17,14 @@
     <h3 id="hienthi" style="margin-left: 75px ; color: red">Bóng đèn đang tắt</h3>
 
 </fieldset>
+<p id="display"></p>
 <script>
     class Battatbongden {
         constructor(status) {
             this.status = status;
         }
 
-        ONOFF() {
+        onoff() {
             this.status = !this.status;
         };
     }
@@ -47,13 +48,16 @@
 
     let denbat = new Battatbongden(false);
     let sang = new sangden(denbat);
-
+    let dem = 0
     function battat() {
-        denbat.ONOFF();
+        denbat.onoff();
         sang.switch();
+        dem++  ;
+        if (dem>6){
+            document.writeln(" <h1 style='color: red ;margin-left: 40%  '>Bóng Đèn Cháy Rồi</h1>")
+        }
     }
 
 </script>
-
 </body>
 </html>

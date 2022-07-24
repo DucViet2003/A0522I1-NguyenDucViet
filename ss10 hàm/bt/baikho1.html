@@ -5,6 +5,7 @@
     <title>Title</title>
 </head>
 <body>
+<table>
 <style>
     .chartreuse {
         background-color: chartreuse;
@@ -25,11 +26,11 @@
     <td>products</td>
 
 </tr>
-
+</table>
 <br>
 <script>
     function kichchuot() {
-        var a = document.getElementById("nhapvao");
+        let a = document.getElementById("nhapvao").value;
         document.getElementById("them").innerText = a
     }
     document.writeln(a+"<button>Edit</button>")
