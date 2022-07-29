@@ -11,22 +11,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60c58495-0034-4b4b-99f8-73e6fe454d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/nhap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9 mảng/th/imhoa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tham khao/dem xem co bao nhieu uoc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tham khao/so hoan hao.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tham khao/so than thiet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tham khao/tong so chan trong vi tri so le.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tham khao/cong 2 mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tham khao/doi so thanh chu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tham khao/sum cong bang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thaokhaomang/finonacci.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thaokhaomang/nhapdiemvain ra diem cao nhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thaokhaomang/songuyenx.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lthdt/bt/adam va eva.html" beforeDir="false" afterPath="$PROJECT_DIR$/lthdt/bt/adam va eva.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lthdt/bt/congtac.html" beforeDir="false" afterPath="$PROJECT_DIR$/lthdt/bt/congtac.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pikachu/objects/pikachu.png" beforeDir="false" afterPath="$PROJECT_DIR$/pikachu/objects/pikachu.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pikachu/objects/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/pikachu/objects/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ss10 hàm/bt/baikho1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10 hàm/bt/baikho1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss4_git)_html/bai_tap/HTML 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss4_git)_html/bai_tap/HTML 2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8 for/bt/01bai04.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8 for/bt/01bai04.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thao/mang1.7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9 mảng/bt/hha.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9 mảng/bt/hha.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9 mảng/bt/tudien.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9 mảng/bt/tudien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tham khao/dem xem co bao nhieu uoc.html" beforeDir="false" afterPath="$PROJECT_DIR$/tham khao/dem xem co bao nhieu uoc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tham khao/so hoan hao.html" beforeDir="false" afterPath="$PROJECT_DIR$/tham khao/so hoan hao.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tham khao/so than thiet.html" beforeDir="false" afterPath="$PROJECT_DIR$/tham khao/so than thiet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuc hanh/ducvu.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,6 +212,11 @@
       <workItem from="1658388943947" duration="12000" />
       <workItem from="1658660201296" duration="126000" />
       <workItem from="1658660339290" duration="874000" />
+      <workItem from="1658746074630" duration="8018000" />
+      <workItem from="1658754282282" duration="2368000" />
+      <workItem from="1658915436440" duration="20000" />
+      <workItem from="1658922195652" duration="7535000" />
+      <workItem from="1659091038306" duration="5033000" />
     </task>
     <servers />
   </component>
@@ -251,14 +256,14 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="745" y="0" width="579" height="816" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1654865484208" />
-    <state x="425" y="185" key="run.anything.popup" timestamp="1658322091435">
+    <state x="425" y="185" key="run.anything.popup" timestamp="1658924886704">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1658322091435" />
-    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1658314358574">
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1658924886704" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1658750015211">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1658314358574" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1658750015211" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

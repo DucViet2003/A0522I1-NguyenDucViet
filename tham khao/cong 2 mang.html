@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+
+    // Cho 2 mảng A và B chứa số nguyên. Tìm ra một mảng đã được sắp xếp chứa các phần tử xuất hiện trong mảng B nhưng lại không xuất hiện A
+
+
+    let a = [1, 2, 3];
+    let b = [1, 2, 4, 5, 6];
+    let c = [];
+
+
+    // function ktmang(x) {
+    //     for (let i = 0; i < a.length; i++) {
+    //         if (x == a[i]) {
+    //             return false;
+    //             break;
+    //         }
+    //
+    //
+    //     }
+    //     return true;
+    //
+    // }
+    //
+    //
+    // for (let i = 0; i < b.length; i++) {
+    //     if (ktmang(b[i]) == true) {
+    //        document.write(b[i]);
+    //     }
+    //
+    //
+    // }
+
+
+    for (let j = 0; j < b.length; j++){
+        if(a.indexOf(b[j]) == -1){
+            c.push(b[j]);  //push thêm vào cuối mãng
+        }
+
+    }
+    document.write(c)
+
+
+</script>
+</body>
+</html>

@@ -16,9 +16,9 @@
     let tiengViet = ["khỉ", "Chó", "mèo", "hổ", "sư tử", "voi", "rắn", "trâu"]
     let tiengAnh= ["monkey", "dog", "cat", "tiger", "lion", "elephant", "snake", "buffalo"]
     function timkiem() {
-        let a = document.getElementById('1')
-        let b = tiengAnh.indexOf(a).value
-        let c = tiengViet.indexOf(a).value
+        let a = document.getElementById('1').value;
+        let b = tiengAnh.indexOf(a);
+        let c = tiengViet.indexOf(a);
         if(b!=-1){
             document.getElementById("ketQua").innerText ="Dịch ra là: " + tiengViet[b]
         }else if(c!=-1) {

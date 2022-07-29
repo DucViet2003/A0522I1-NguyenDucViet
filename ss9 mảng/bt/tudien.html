@@ -4,42 +4,54 @@
     <meta charset="UTF-8">
     <title>tudien</title>
 </head>
-<body>
-<form method="post" style="width:700px;background-color: powderblue">
-    <fieldset>
-        <legend><h1 style="margin: 10px 100px 10px 150px"><span style="color:red ;">Bách</span>
-            <span style="color: deeppink;"> Khoa</span>
-            <span style="color: hotpink;"> Toàn</span>
-            <span style="color: pink ;"> Thư</span> <br></h1></legend>
-        <br><br><br>
-
-        <input style="height: 30px; color: blueviolet ; background-color: chartreuse ;width: 300px;height: 50px ;margin: 0px 150px"
-               type="text"
-               placeholder="Nhập vào từ cần tìm kiếm" id="timkiem">
-        <br><br><br><br>
-        <button style="height: 30px; background-color: yellow; margin: 0px 250px" onclick="kiemtra()">Tìm Kiếm</button>
-        <h4 style="color: blue" id="ketQua"></h4>
-        <script>
-            let tiengViet = ["Khỉ", "Chó", "Mèo", "Hổ", "Sư tử", "Voi", "Rắn", "Trâu"]
-            let tiengAnh = ["Monkey", "Dog", "Cat", "Tiger", "Lion", "Elephant", "Snake", "Buffalo"]
-
-            function kiemtra() {
-                let nhapvao = document.getElementById('timkiem')
-                let b = tiengAnh.indexOf(nhapvao).value
-                let c = tiengViet.indexOf(nhapvao).value
-                if (b != -1) {
-                    document.getElementById(" Kết Quả ").innerHTML = "Dịch ra là: " + tiengViet[b]
-                } else if (c != -1) {
-                    document.getElementById("Kết Quả").innerHTML = "Translates as: " + tiengAnh[c]
-                } else {
-                    alert("Dịch không ra")
-                }
-
-            }
+<body style="background-color: yellow">
 
 
-        </script>
-    </fieldset>
-</form>
+<h1 style="margin: 10px 100px 10px 500px"><span style="color:red ;">Bách</span>
+    <span style="color: deeppink;"> Khoa</span>
+    <span style="color: hotpink;"> Toàn</span>
+    <span style="color: pink ;"> Thư</span> <br></h1>
+<br><br><br>
+
+<input style="height: 30px; color: blueviolet ; background-color: chartreuse ;width: 300px;height: 50px ;margin: 0px 500px"
+       type="text"
+       placeholder="Nhập vào từ cần tìm kiếm" id="timkiem">
+<br><br><br><br>
+<button style="height: 30px; background-color: deepskyblue; margin: 0px 630px" onclick="kiemtra()">Tìm Kiếm</button>
+<h4 style="color: blue" id="ketQua"></h4>
+
+
+<script>
+
+
+    function kiemtra() {
+        let tiengViet = ["Khỉ", "Chó", "Mèo", "Hổ", "Sư tử", "Voi", "Rắn", "Trâu"]
+        let tiengAnh = ["Monkey", "Dog", "Cat", "Tiger", "Lion", "Elephant", "Snake", "Buffalo"]
+        let nhapvao = document.getElementById('timkiem').value;
+        let b = tiengAnh.indexOf(nhapvao)
+        let c = tiengViet.indexOf(nhapvao)
+        if (b != -1) {
+            document.getElementById("ketQua").innerHTML = "Dịch ra là: " + tiengViet[b]
+        } else if (c != 1) {
+            document.getElementById("ketQua").innerHTML = "Translates as: " + tiengAnh[c]
+        } else {
+            alert("Dịch không ra")
+        }
+        // for (let i = 0; i < tiengViet.length; i++) {
+        //     if (nhapvao == tiengViet[i]){
+        //         alert('dịch sang tiếng anh là '+ tiengAnh[i]);
+        //     }
+        // }
+    }
+
+
+
+
+
+
+
+</script>
+
+
 </body>
 </html>

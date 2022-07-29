@@ -6,34 +6,53 @@
 </head>
 <body>
 <table>
-<style>
-    .chartreuse {
-        background-color: chartreuse;
-    }
-</style>
-<h1>
-    Add New Product
-</h1>
-<input type="text" id="nhapvao" placeholder="New Product" style="width: 300px;height: 40px;border-radius: 10px">
-<button onclick="kichchuot()" style="width: 100px;height: 50px;border-radius: 10px" class="chartreuse">Add
-</button>
-<p id="them"></p>
-<h1>
-    Display All Product
-</h1>
-<tr>
-    <td><h3>Product Name</h3></td>
-    <td>products</td>
+    <style>
+        .chartreuse {
+            background-color: chartreuse;
+        }
+    </style>
+    <h1>
+        Add New Product
+    </h1>
+    <input type="text" id="nhapvao" placeholder="New Product" style="width: 300px;height: 40px;border-radius: 10px">
+    <button onclick="kichchuot()" style="width: 100px;height: 50px;border-radius: 10px" class="chartreuse">Add
+    </button>
 
-</tr>
+    <h1>
+        Display All Product
+    </h1>
+    <tr>
+        <td><h3>Product Name</h3></td>
+        <td>products</td>
+
+
+    </tr>
+
 </table>
 <br>
+<p id="them"></p>
 <script>
+    let arr = new Array();
+
     function kichchuot() {
         let a = document.getElementById("nhapvao").value;
-        document.getElementById("them").innerText = a
+        arr.push(a);
+        console.log(arr);
+        let display = '';
+
+        for (let i = 0; i < arr.length; i++) {
+            display += "<tr>" + "<td>" + arr[i] + "</td>" + "<td>"
+                + "<button onclick='editcode()' style=\"width: 100px;height: 50px;border-radius: 10px;margin: 0px 200px\" class=\"chartreuse\">Edit</button>"
+                + "</td>" + "&nbsp;&nbsp;&nbsp;"
+                + "<td>"
+                + "<button onclick='deletecode()' style=\"width: 100px;height: 50px;border-radius: 10px\" class=\"chartreuse\">Delete</button>"
+                + "</td>" + "<br>"+ "<br>";
+
+        }
+        document.getElementById("them").innerHTML = display;
+
     }
-    document.writeln(a+"<button>Edit</button>")
+
 </script>
 </body>
 </html>

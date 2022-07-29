@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let a = parseInt(prompt("Nhập số muốn kiểm tra có phải là fibonacci không"));
+
+    if (isFibonacci(a)) {
+        alert(" số vừa nhập có trong dãy fibonacci");
+    } else alert(" số vừa nhập k có trong dãy fibonacci");
+
+
+        function isFibonacci(a) {
+
+            let b = 0;
+            let c = 1;
+            let fibonacci;
+            for (let i = 1; i <= a; i++) {
+                fibonacci = b + c;
+                c = b;
+                b = fibonacci;
+
+                if (a === fibonacci) {
+                    return true;
+                }
+
+
+            }
+            return false;
+        }
+
+
+    isFibonacci();
+</script>
+</body>
+</html>

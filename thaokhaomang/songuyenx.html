@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function tryRemoveFromArray() {
+        let songuyen = parseInt(prompt("Nhập vào số nguyên"));
+        let a = [];
+        let nhap = parseInt(prompt("Số lượng mảng"));
+        for (let i = 0; i < nhap; i++) {
+            a[i] = parseInt(prompt("Nhập số nguyên thứ " + i));
+            if (a[i] === songuyen) {
+                a.splice(i,1);
+            }
+        }alert(a)
+    }tryRemoveFromArray();
+</script>
+</body>
+</html>
