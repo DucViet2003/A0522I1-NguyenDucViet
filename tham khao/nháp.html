@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let input = +prompt("nhap vao bao nhieu so");
+    let arr = [];
+    let a = [];
+
+    for (let i = 0; i < input; i++) {
+        arr[i] = +prompt("nhap phan tu thu " + i);
+        document.writeln(arr[i]);
+
+
+    }
+    for (let i = 0; i < arr.length; i++) {
+        let d = 0;
+        for (let j = 0; j < arr.length; j++) {
+            if (arr[i] === arr[j]) {
+                d++;
+            }
+        }
+        if (a.indexOf(arr[i]) === -1) {
+            document.writeln("<br>");
+            document.writeln(arr[i] + ":" + d);
+            a.push(arr[i]);
+        }
+    }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let number = parseInt(prompt("Nhập số lượng số cần hiển thị không phải là số nguyên tố"));
+    let dem = 0;
+    let n = 2;
+    function Snt(a) {
+        for (let i = 2; i <= Math.sqrt(a); i++) {
+            if (a % i === 0) {
+                return true;
+            }
+        }
+        return false
+
+    }
+
+    while (dem < number) {
+        if (Snt(n) === true) {
+            document.write(n + " ");
+            dem++;
+        }
+        n++;
+    }
+
+</script>
+</body>
+</html>

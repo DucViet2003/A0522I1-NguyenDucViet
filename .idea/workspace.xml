@@ -11,22 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60c58495-0034-4b4b-99f8-73e6fe454d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tham khao/cong 2 mang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tham khao/doi so thanh chu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tham khao/sum cong bang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thaokhaomang/finonacci.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thaokhaomang/nhapdiemvain ra diem cao nhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thaokhaomang/songuyenx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tham khao/dem so luong so nguyen trung nhau.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tham khao/ktphaisongyentoko.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tham khao/nháp.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nhap.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pikachu/objects/pikachu.png" beforeDir="false" afterPath="$PROJECT_DIR$/pikachu/objects/pikachu.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pikachu/objects/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/pikachu/objects/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10 hàm/bt/baikho1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10 hàm/bt/baikho1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss9 mảng/bt/hha.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9 mảng/bt/hha.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ss9 mảng/bt/tudien.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9 mảng/bt/tudien.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tham khao/dem xem co bao nhieu uoc.html" beforeDir="false" afterPath="$PROJECT_DIR$/tham khao/dem xem co bao nhieu uoc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tham khao/so hoan hao.html" beforeDir="false" afterPath="$PROJECT_DIR$/tham khao/so hoan hao.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tham khao/so than thiet.html" beforeDir="false" afterPath="$PROJECT_DIR$/tham khao/so than thiet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thuc hanh/ducvu.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +208,9 @@
       <workItem from="1658754282282" duration="2368000" />
       <workItem from="1658915436440" duration="20000" />
       <workItem from="1658922195652" duration="7535000" />
-      <workItem from="1659091038306" duration="5033000" />
+      <workItem from="1659091038306" duration="7129000" />
+      <workItem from="1659114227498" duration="3576000" />
+      <workItem from="1659139688364" duration="2426000" />
     </task>
     <servers />
   </component>
